@@ -3,7 +3,7 @@ Hello! I am a Ph.D. Student in the School of Computer, Data, and Information Sci
 My research interests are centered around building more secure and trustworthy Machine Learning models.
 
 **Website:** [https://jcnf.me](https://jcnf.me)\
-**Email:** [jcnf@cs.wisc.edu](mailto:jcnf@cs.wisc.edu)\
+**Email:** [contact@jcnf.me](mailto:contact@jcnf.me)\
 **Address:** 1210 W. Dayton St., Room 2263, Madison, WI 53706-1613, USA
 <!---
 jcnf0/jcnf0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
