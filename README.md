@@ -1,6 +1,6 @@
 Hello! I am a Ph.D. Student in the School of Computer, Data, and Information Sciences at the [University of Wisconsin-Madison](https://www.wisc.edu/). I am a research assistant in the [MadS&P](https://madsp.cs.wisc.edu/) research group and advised by [Prof. Patrick McDaniel](http://patrickmcdaniel.org/). 
 
-My research interests are centered around building more secure and trustworthy Machine Learning models.
+My research interests are centered around building more secure and trustworthy machine learning models.
 
 **Website:** [https://jcnf.me](https://jcnf.me)\
 **Email:** [contact@jcnf.me](mailto:contact@jcnf.me)\
